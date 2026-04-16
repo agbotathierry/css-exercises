@@ -1,1 +1,28 @@
+
 /* Add CSS Styling */
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color:black;
+}
+button{
+    font-size:50px;
+    
+    
+}
+button#first{
+    color:white;
+    background-color:black;
+    font-weight:bold;
+}
+#second{
+    color:black;
+    background-color:yellow;
+
+}
+div{
+    border: 10px solid white;
+}
