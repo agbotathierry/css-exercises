@@ -24,3 +24,14 @@ img {
   justify-content: center;
   background: #eee;
 }
+.photo{
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  gap:150px;
+  margin-top:80px;
+
+}
+.title{
+  text-align:center;
+}
